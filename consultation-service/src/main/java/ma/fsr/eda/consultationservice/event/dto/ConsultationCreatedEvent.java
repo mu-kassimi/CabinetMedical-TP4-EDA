@@ -1,0 +1,19 @@
+package ma.fsr.eda.consultationservice.event.dto;
+
+import java.time.LocalDateTime;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class ConsultationCreatedEvent {
+    private String eventId;
+    private String consultationId;
+    private String rendezVousId;
+    private String patientId;
+    private String medecinId;
+    private LocalDateTime dateConsultation;
+    private String statut;
+}

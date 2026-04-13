@@ -1,0 +1,15 @@
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\model\projection\PatientProjection.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\event\producer\RendezVousEventProducer.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\event\consumer\FactureEventConsumer.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\model\projection\MedecinProjection.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\repository\MedecinProjectionRepository.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\web\RendezVousController.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\model\RendezVous.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\event\consumer\MedecinEventConsumer.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\service\RendezVousService.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\event\consumer\PatientEventConsumer.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\RendezVousServiceApplication.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\repository\RendezVousRepository.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\web\ProjectionController.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\event\dto\RendezVousCreatedEvent.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\rendezvous-service\src\main\java\ma\fsr\eda\rendezvousservice\repository\PatientProjectionRepository.java

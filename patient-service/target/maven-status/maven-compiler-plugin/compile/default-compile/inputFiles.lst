@@ -1,0 +1,7 @@
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\patient-service\src\main\java\ma\fsr\eda\patientservice\event\dto\PatientCreatedEvent.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\patient-service\src\main\java\ma\fsr\eda\patientservice\service\PatientService.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\patient-service\src\main\java\ma\fsr\eda\patientservice\repository\PatientRepository.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\patient-service\src\main\java\ma\fsr\eda\patientservice\event\producer\PatientEventProducer.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\patient-service\src\main\java\ma\fsr\eda\patientservice\PatientServiceApplication.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\patient-service\src\main\java\ma\fsr\eda\patientservice\model\Patient.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\patient-service\src\main\java\ma\fsr\eda\patientservice\web\PatientController.java

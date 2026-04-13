@@ -1,0 +1,15 @@
+ma\fsr\eda\rendezvousservice\model\projection\PatientProjection.class
+ma\fsr\eda\rendezvousservice\event\consumer\FactureEventConsumer.class
+ma\fsr\eda\rendezvousservice\service\RendezVousService.class
+ma\fsr\eda\rendezvousservice\web\ProjectionController.class
+ma\fsr\eda\rendezvousservice\event\consumer\PatientEventConsumer.class
+ma\fsr\eda\rendezvousservice\model\RendezVous.class
+ma\fsr\eda\rendezvousservice\repository\MedecinProjectionRepository.class
+ma\fsr\eda\rendezvousservice\event\dto\RendezVousCreatedEvent.class
+ma\fsr\eda\rendezvousservice\event\producer\RendezVousEventProducer.class
+ma\fsr\eda\rendezvousservice\repository\RendezVousRepository.class
+ma\fsr\eda\rendezvousservice\RendezVousServiceApplication.class
+ma\fsr\eda\rendezvousservice\event\consumer\MedecinEventConsumer.class
+ma\fsr\eda\rendezvousservice\repository\PatientProjectionRepository.class
+ma\fsr\eda\rendezvousservice\model\projection\MedecinProjection.class
+ma\fsr\eda\rendezvousservice\web\RendezVousController.class

@@ -1,0 +1,6 @@
+ma\fsr\eda\eventdtolib\event\dto\FactureFailedEvent.class
+ma\fsr\eda\eventdtolib\event\dto\MedecinCreatedEvent.class
+ma\fsr\eda\eventdtolib\event\dto\PatientCreatedEvent.class
+ma\fsr\eda\eventdtolib\event\dto\RendezVousCreatedEvent.class
+ma\fsr\eda\eventdtolib\event\dto\ConsultationCreatedEvent.class
+ma\fsr\eda\eventdtolib\event\dto\FactureCreatedEvent.class

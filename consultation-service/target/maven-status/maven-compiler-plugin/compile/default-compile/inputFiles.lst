@@ -1,0 +1,8 @@
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\consultation-service\src\main\java\ma\fsr\eda\consultationservice\ConsultationServiceApplication.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\consultation-service\src\main\java\ma\fsr\eda\consultationservice\event\consumer\RendezVousEventConsumer.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\consultation-service\src\main\java\ma\fsr\eda\consultationservice\event\producer\ConsultationEventProducer.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\consultation-service\src\main\java\ma\fsr\eda\consultationservice\model\Consultation.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\consultation-service\src\main\java\ma\fsr\eda\consultationservice\service\ConsultationService.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\consultation-service\src\main\java\ma\fsr\eda\consultationservice\repository\ConsultationRepository.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\consultation-service\src\main\java\ma\fsr\eda\consultationservice\web\ConsultationController.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\consultation-service\src\main\java\ma\fsr\eda\consultationservice\event\dto\ConsultationCreatedEvent.java

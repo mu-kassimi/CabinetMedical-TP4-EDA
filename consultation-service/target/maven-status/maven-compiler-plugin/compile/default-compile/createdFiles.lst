@@ -1,0 +1,8 @@
+ma\fsr\eda\consultationservice\repository\ConsultationRepository.class
+ma\fsr\eda\consultationservice\web\ConsultationController.class
+ma\fsr\eda\consultationservice\event\dto\ConsultationCreatedEvent.class
+ma\fsr\eda\consultationservice\event\consumer\RendezVousEventConsumer.class
+ma\fsr\eda\consultationservice\event\producer\ConsultationEventProducer.class
+ma\fsr\eda\consultationservice\model\Consultation.class
+ma\fsr\eda\consultationservice\ConsultationServiceApplication.class
+ma\fsr\eda\consultationservice\service\ConsultationService.class

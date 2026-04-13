@@ -1,0 +1,7 @@
+ma\fsr\eda\patientservice\model\Patient.class
+ma\fsr\eda\patientservice\event\producer\PatientEventProducer.class
+ma\fsr\eda\patientservice\event\dto\PatientCreatedEvent.class
+ma\fsr\eda\patientservice\PatientServiceApplication.class
+ma\fsr\eda\patientservice\repository\PatientRepository.class
+ma\fsr\eda\patientservice\web\PatientController.class
+ma\fsr\eda\patientservice\service\PatientService.class

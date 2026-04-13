@@ -1,0 +1,9 @@
+ma\fsr\eda\billingservice\event\consumer\ConsultationEventConsumer.class
+ma\fsr\eda\billingservice\event\producer\BillingEventProducer.class
+ma\fsr\eda\billingservice\web\FactureController.class
+ma\fsr\eda\billingservice\service\BillingService.class
+ma\fsr\eda\billingservice\model\Facture.class
+ma\fsr\eda\billingservice\event\dto\FactureFailedEvent.class
+ma\fsr\eda\billingservice\repository\FactureRepository.class
+ma\fsr\eda\billingservice\BillingServiceApplication.class
+ma\fsr\eda\billingservice\event\dto\FactureCreatedEvent.class

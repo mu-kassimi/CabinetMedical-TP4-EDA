@@ -1,0 +1,7 @@
+ma\fsr\eda\medecinservice\event\dto\MedecinCreatedEvent.class
+ma\fsr\eda\medecinservice\service\MedecinService.class
+ma\fsr\eda\medecinservice\web\MedecinController.class
+ma\fsr\eda\medecinservice\MedecinServiceApplication.class
+ma\fsr\eda\medecinservice\model\Medecin.class
+ma\fsr\eda\medecinservice\event\producer\MedecinEventProducer.class
+ma\fsr\eda\medecinservice\repository\MedecinRepository.class

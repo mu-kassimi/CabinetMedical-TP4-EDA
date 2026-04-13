@@ -1,0 +1,9 @@
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\billing-service\src\main\java\ma\fsr\eda\billingservice\web\FactureController.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\billing-service\src\main\java\ma\fsr\eda\billingservice\event\dto\FactureFailedEvent.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\billing-service\src\main\java\ma\fsr\eda\billingservice\repository\FactureRepository.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\billing-service\src\main\java\ma\fsr\eda\billingservice\event\dto\FactureCreatedEvent.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\billing-service\src\main\java\ma\fsr\eda\billingservice\service\BillingService.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\billing-service\src\main\java\ma\fsr\eda\billingservice\event\consumer\ConsultationEventConsumer.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\billing-service\src\main\java\ma\fsr\eda\billingservice\model\Facture.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\billing-service\src\main\java\ma\fsr\eda\billingservice\BillingServiceApplication.java
+C:\Users\T480\Documents\Programmation\cabinetMedicalTp4EDA\billing-service\src\main\java\ma\fsr\eda\billingservice\event\producer\BillingEventProducer.java
